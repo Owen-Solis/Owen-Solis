@@ -12,11 +12,12 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudio Ingeniería en Desarrollo y Gestión de Software  
-- 💻 Desarrollo proyectos web y aplicaciones móviles  
-- 📱 Trabajo con HTML, CSS, JavaScript, PHP, Java, MySQL y Firebase  
-- 🌱 Siempre busco aprender nuevas tecnologías  
-- 🌐 Mi portafolio: [OwenSWeb](https://owen-solis.github.io/OwenSWeb/)
+- 🎓 Estudiante de **Ingeniería en Desarrollo y Gestión de Software**
+- 💻 Desarrollo proyectos web y aplicaciones móviles
+- 📱 Trabajo con **HTML, CSS, JavaScript, PHP, Java, MySQL y Firebase**
+- 🌱 Siempre busco aprender nuevas tecnologías
+- 🌐 Mi portafolio:  
+  **https://owen-solis.github.io/OwenSWeb/**
 
 ---
 
@@ -51,15 +52,34 @@
 
 ## 📌 Repositorios destacados
 
-- [OwenSWeb](https://github.com/Owen-Solis/OwenSWeb)
-- [OLCStreetwear](https://github.com/Owen-Solis/OLCStreetwear)
-- [DEMA](https://github.com/Owen-Solis/II-III-DEMA)
+- 🔹 [OwenSWeb](https://github.com/Owen-Solis/OwenSWeb) — Mi portafolio web personal  
+- 🔹 [OLCStreetwear](https://github.com/Owen-Solis/OLCStreetwear) — Tienda web desarrollada con HTML, CSS, JS y PHP  
+- 🔹 [DEMA](https://github.com/Owen-Solis/II-III-DEMA) — Proyecto web creativo e interactivo  
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: [@Owen-Solis](https://github.com/Owen-Solis)
-- Portafolio: [owen-solis.github.io/OwenSWeb](https://owen-solis.github.io/OwenSWeb/)
+<p>
+
+<a href="https://github.com/Owen-Solis">
+<img src="https://img.shields.io/badge/GitHub-OwenSolis-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://owen-solis.github.io/OwenSWeb/">
+<img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/owensolis.16/">
+<img src="https://img.shields.io/badge/Instagram-@owensolis.16-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
 
 ---
+
+<div align="center">
+
+⭐ **Gracias por visitar mi perfil**
+
+</div>
